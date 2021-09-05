@@ -1,0 +1,8 @@
+{
+  "extends": "@prunus/eslint-config/ts",
+  "env": {
+    "jest": true,
+    "node": true
+  },
+  "ignorePatterns": [ "dist", "build" ]
+}
